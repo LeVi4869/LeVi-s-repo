@@ -1,2 +1,2 @@
-![Image of Solution](https://raw.githubusercontent.com/LeVi4869/LeVi-s-repo/homework4/homework4/images/crazy_cut_puzzle.png)
+![Image of Solution](https://raw.githubusercontent.com/LeVi4869/LeVi-s-repo/homework4/homework4/images/crazy_cut_puzzle.png)  
 If we rotate left the left piece by 90 degrees, it will be the same as the right piece
